@@ -273,4 +273,12 @@
     margin-left: 42%;
 }
 
-/* ************************ Sixth Section ****************** */
+/* ************************ Footer Section ****************** */
+
+.footer{
+    height: 50vh;
+}
+
+.footer h6{
+    margin-left: 20%;
+}
