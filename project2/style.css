@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section1{
+    height: 100vh;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.54),rgba(0, 0, 0, 0.501)), url(./image/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* 
+.navbar{
+    display: none;
+} */
+
+@media screen and (max-width:767px) {
+    /* .navbar{
+        display: block;
+    }
+
+    nav{
+        display: none;
+    } */
+}
