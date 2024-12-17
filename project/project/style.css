@@ -1,0 +1,284 @@
+/* ******************* Firth Section *********************** */
+
+.img1:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 50px !important;
+}
+
+.para {
+    display: none;
+    margin-left: 2%;
+}
+
+.box1 {
+    width: 100px;
+}
+
+.box1:hover .para {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+
+.img2:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 30px !important;
+}
+
+.para1 {
+    display: none;
+    margin-left: 2%;
+}
+
+.box2 {
+    width: 100px;
+}
+
+.box2:hover .para1 {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+
+.img3:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 30px !important;
+}
+
+.para2 {
+    display: none;
+    margin-left: 2%;
+}
+
+.box3 {
+    width: 100px;
+}
+
+.box3:hover .para2 {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+
+.img4:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 30px !important;
+}
+
+.para4 {
+    display: none;
+    margin-left: 2%;
+}
+
+.box4 {
+    width: 100px;
+}
+
+.box4:hover .para4 {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+
+.img5:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 30px !important;
+}
+
+.para5 {
+    display: none;
+    margin-left: 2%;
+}
+
+.box5 {
+    width: 100px;
+}
+
+.box5:hover .para5 {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+
+.img6:hover {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: relative;
+    margin-left: 30px !important;
+}
+
+.para6 {
+    display: none;
+    margin-left: 2%;
+}
+
+.box6 {
+    width: 100px;
+}
+
+.box6:hover .para6 {
+    display: block;
+    transition: all;
+    transition-duration: 1s;
+    transition-delay: 0s;
+    position: absolute;
+    /* margin-left: 0px; */
+    margin-bottom: 15%;
+}
+
+/* ************** Third Section *************************** */
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 100vh;
+}
+
+.grid-img{
+    border-radius: 20px;
+}
+
+.one{
+    grid-row: span 2;
+    margin-bottom: 5% ;
+    margin-top: 10%;
+    background-image: url(./image/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.two{
+    grid-row: span 3;
+    grid-column: span 2;
+    margin-bottom: 5% ;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-image: url(./image/13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.four{
+    grid-row: span 4;
+    margin-bottom: 5% ;
+    background-image: url(./image/12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.five{
+    grid-row: span 3;
+    grid-column: span 2;
+    margin-bottom: 5% ;
+    margin-left: 5%;
+    background-image: url(./image/14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* ***************** Fourth Section ******************* */
+
+.fa-brands{
+    font-size: 65px;
+    margin-left: 48%;
+    margin-bottom: 20px;
+}
+
+.fa-solid{
+    font-size: 65px;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+
+/* ************************ Fifth Section ****************** */
+
+.para7{
+    margin-top: 20%;
+    margin-left: 4%;
+}
+
+.heading{
+    margin-left: 15%;
+}
+
+.img8{
+    margin-left: 38%;
+    margin-top: 3%;
+}
+
+.btn1{
+    margin-left: 42%;
+}
+
+/* ************************ Footer Section ****************** */
+
+.footer{
+    height: 40vh;
+}
+
+.footer h6{
+    margin-left: 20%;
+}
