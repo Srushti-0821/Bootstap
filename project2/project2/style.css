@@ -57,6 +57,10 @@ hr {
     top: 57%;
 }
 
+.img5{
+    border-radius: 0px 100px 0px 0px;
+}
+
 @media screen and (max-width:767px) {
     .navbar {
         display: block;
