@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Section 1 */
+
+.navbar {
+    display: none;
+}
+
+/* ****************************** Section 4 ******************************* */
+
+.img1{
+    background-image: url(./image/10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+}
+
+@media screen and (max-width:767px) {
+    .navbar {
+        display: block;
+        margin-left: 90%;
+    }
+
+    .navbar1 {
+        display: none !important;
+    }
+
+    .icon {
+        display: none;
+    }
+
+    .img1{
+        background-image: url(./image/10.jpg);
+        height: 85vh;
+    }
+
+}
